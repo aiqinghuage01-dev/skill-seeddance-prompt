@@ -1,0 +1,9 @@
+{
+  "name": "文案转SeedDance-学员版",
+  "version": "1.0.0",
+  "description": "口播文案拆分成15秒片段，每段生成SeedDance视频提示词，角色外貌全片一致",
+  "author": "aiqinghuage01-dev",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}
