@@ -1,0 +1,21 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 4,
+  "role": "导演",
+  "avatar": {
+    "style": "lorelei",
+    "seed": "director-action-cut"
+  },
+  "capabilities": [
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "口播文案拆分15秒片段，生成AI视频提示词"
+}
